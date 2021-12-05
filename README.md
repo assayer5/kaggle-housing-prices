@@ -1,5 +1,4 @@
-# kaggle-housing-prices
-## Project: Housing Prices Regression
+# Project: Housing Prices Regression
 
 ### Overview
 Predict housing prices using Ridge regression on the Ames, Iowa Housing Prices dataset available as [Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). 
